@@ -36,6 +36,7 @@
   * [Solr](configuration/services/solr.md)
   * [Elasticsearch](configuration/services/elasticsearch.md)
   * [RabbitMQ](configuration/services/rabbitmq.md)
+  * [Varnish](configuration/services/varnish.md}
 * [Apps (.platform.app.yaml)](configuration/app-containers.md)
   * [Name](configuration/app/name.md)
   * [Type](configuration/app/type.md)
